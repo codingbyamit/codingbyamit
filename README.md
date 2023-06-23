@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/code_by_amit" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="code_by_amit" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/amit-kumar-887200271/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="code_by_amit" height="40" width="40" /></a>
+<a href="https://instagram.com/code_by_amit" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="code_by_amit" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-kumar-887200271/" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="code_by_amit" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
