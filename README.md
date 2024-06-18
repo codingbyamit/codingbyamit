@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend & backend developer from India</h3>
 <img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbyamit&label=Profile%20views&color=0e75b6&style=flat" alt="codingbyamit" /> </p>
 
 - 🌱 I’m **MERN Stack** developer.
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,React,NodeJS,Express,MongoDB**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERN**
 
 - 📫 How to reach me **codebyamit@gmail.com**
 
