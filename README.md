@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbyamit&label=Profile%20views&color=0e75b6&style=flat" alt="codingbyamit" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m **MERN Stack** developer.
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,React,NodeJS,Express,MongoDB**
 
 - 📫 How to reach me **codebyamit@gmail.com**
 
