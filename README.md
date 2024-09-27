@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbyamit&label=Profile%20views&color=0e75b6&style=flat" alt="codingbyamit" /> </p>
 
-- 🌱 I’m **MERN Stack** developer.
+- 🌱 I’m **FULL Stack** developer.
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERN**
 
